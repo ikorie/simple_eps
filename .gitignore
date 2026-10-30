@@ -1,0 +1,5 @@
+/target/
+
+/installer/dependencies/
+/installer/output/
+/installer/*.exe
